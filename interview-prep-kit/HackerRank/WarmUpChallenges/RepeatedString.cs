@@ -38,7 +38,7 @@ namespace HackerRank.WarmUpChallenges
             return occurenceOfa;
         }
 
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             string s = Console.ReadLine();
 
