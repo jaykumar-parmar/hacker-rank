@@ -54,7 +54,7 @@ namespace HackerRank.WarmUpChallenges
 
     class CountingValleys
     {
-        public static void Main(string[] args)
+        public void Main(string[] args)
         {
            
 
