@@ -60,7 +60,7 @@ namespace HackerRank.Arrays
             return lastHigh;
         }
 
-        static void Main(string[] args)
+        void Main(string[] args)
         {
 
             int[][] arr = new int[6][];
