@@ -26,7 +26,7 @@ namespace HackerRank.Arrays
 
         }
 
-        static void Main(string[] args)
+        void Main(string[] args)
         {
 
             string[] nd = Console.ReadLine().Split(' ');
